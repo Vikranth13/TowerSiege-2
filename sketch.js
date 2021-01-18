@@ -122,7 +122,7 @@ function draw() {
   
   textSize(24);
   fill("white");
-  text("Drag the polygon and release it, to launch it towards the towers.",300,50);
+  text("Drag the polygon and release it, to launch it to knock the boxes off.",300,50);
 
   textSize(14);
   fill("white");
